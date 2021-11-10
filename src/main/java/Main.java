@@ -5,6 +5,10 @@ public class Main {
         System.out.println(am+ku);
         int ax = 1;
         System.out.println(am+ku+ax);
+        while (true) {
+            System.out.println("exlamation");
+            break;
+        }
 
     }
 }
